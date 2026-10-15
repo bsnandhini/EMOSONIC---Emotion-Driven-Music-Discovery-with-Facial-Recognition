@@ -1,7 +1,3 @@
-# `README.md` for Emosonic
-
-Ithu unga project-ku README file. Ithula project description, setup, usage ellame irukum. Copy panni `README.md` file-a create pannunga.
-
 #  Emosonic
 
 **Emotion-Based Music Recommendation System using CNN**
